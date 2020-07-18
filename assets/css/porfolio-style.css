@@ -1,0 +1,34 @@
+/* .portfolio-details .container {
+    
+} */
+
+
+.col-lg-12.port-img {
+    max-width: 1200px;
+    max-width: 900px;
+}
+
+.col-lg-12.port-text {
+    max-width: 800px;
+}
+
+
+.port-img img.img-fluid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.port-text {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.port-img-hero img.img-fluid {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.port-vid {
+    max-width: 1200px;
+    max-height: 900px;
+}

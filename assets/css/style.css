@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg-1.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -419,6 +419,11 @@ section .container {
 
 .about-me .content p:last-child {
   margin-bottom: 0;
+}
+
+.about-me .col-lg-4 img.img-fluid {
+  max-width: 340px;
+  max-height: 380px;
 }
 
 /*--------------------------------------------------------------
